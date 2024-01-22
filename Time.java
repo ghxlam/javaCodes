@@ -1,10 +1,3 @@
-/**
-Ghulam Ahmed
-Summer 2022
-CS-113
-Section 121
-Assignment 1
-*/
 
 import java.util.Scanner;
 
